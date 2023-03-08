@@ -1,0 +1,7 @@
+div{
+    margin: 3px;
+}
+#tasks input{
+  outline: none;
+  border: 0px;
+}
